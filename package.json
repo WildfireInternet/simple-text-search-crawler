@@ -3,16 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "cheerio-get-css-selector": "^2.0.0",
     "convert-array-to-csv": "^2.0.0",
+    "meow": "^7.1.1",
     "simplecrawler": "^1.1.9"
   }
 }
